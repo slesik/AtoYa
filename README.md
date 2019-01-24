@@ -3,7 +3,7 @@
 **AtoYA** is an iOS application, programmatically realized on Swift. 
 Objectif of this application is to help for learning Russian alphabet.
 
-![](file:///Users/svetlanalesik/Desktop/Alphabet_demo.gif)
+![](https://github.com/slesik/AtoYa/blob/master/AtoYa_demo.gif)
 
 
 ## Structure & Leading
