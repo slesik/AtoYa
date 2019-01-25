@@ -11,7 +11,7 @@ The objective of this application is to help in learning Russian alphabet.
 
 
 <p align="center">
-![](https://github.com/slesik/AtoYa/blob/master/AtoYaDemo.gif)
+ <img src="https://github.com/slesik/AtoYa/blob/master/AtoYaDemo.gif" width="350">
 </p>
 
  
