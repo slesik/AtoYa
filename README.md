@@ -5,7 +5,7 @@ The objective of this application is to help learning the Russian alphabet.
 
 
 <p align="center">
- <img src="https://github.com/slesik/AtoYa/blob/master/AtoYaDemo.gif" width="350">
+ <img src="https://github.com/slesik/AtoYa/blob/master/AtoYa_Demo.gif" width="350">
 </p>
 
 
