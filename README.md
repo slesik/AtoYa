@@ -3,17 +3,19 @@
 **AtoYA** is an iOS application, programmatically realized in Swift. 
 The objective of this application is to help learning the Russian alphabet.
 
-## Main features
-* Intuitive interface.
-* Sound support: pronunciation of letters.
-* Visual support: examples of different lettering.
-* Additional vocabulary based on animal theme : for each letter the name, image and pronunciation of an animal.
-
 
 <p align="center">
  <img src="https://github.com/slesik/AtoYa/blob/master/AtoYaDemo.gif" width="350">
 </p>
 
+
+
+## Main features
+* Intuitive interface.
+* Sound support: pronunciation of letters.
+* Visual support: examples of different lettering.
+* Additional vocabulary based on animal theme : for each letter the name, image and pronunciation of an animal.
+ 
  
 ## Structure & Leading
 
